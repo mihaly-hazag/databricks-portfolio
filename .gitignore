@@ -87,3 +87,5 @@ checkpoints/
 .cache/
 tmp/
 temp/
+
+.databricks
